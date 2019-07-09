@@ -152,7 +152,7 @@
                 </dependencies>
             </plugin>
 
-            <!-- Docker maven plugin -->
+           <!--  Docker maven plugin
             <plugin>
                 <groupId>com.spotify</groupId>
                 <artifactId>docker-maven-plugin</artifactId>
@@ -169,7 +169,7 @@
                     </resources>
                 </configuration>
             </plugin>
-            <!-- Docker maven plugin -->
+             Docker maven plugin -->
 
         </plugins>
     </build>
